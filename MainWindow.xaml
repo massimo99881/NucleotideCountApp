@@ -1,0 +1,17 @@
+﻿<Window x:Class="NucleotideCountApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NucleotideCountApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="259.743" Width="518.75">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Inserisci la sequenza di DNA:"/>
+            <TextBox x:Name="SequenzaDNATextBox" Width="300" Margin="0,5"/>
+            <Button Content="Calcola" Click="CalcolaButton_Click" Margin="0,10"/>
+            <TextBlock x:Name="RisultatoTextBlock" TextWrapping="Wrap" Margin="0,10"/>
+        </StackPanel>
+    </Grid>
+</Window>

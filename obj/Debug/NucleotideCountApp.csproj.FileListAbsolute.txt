@@ -1,0 +1,15 @@
+C:\Users\mgalasi\source\repos\NucleotideCountApp\bin\Debug\NucleotideCountApp.exe.config
+C:\Users\mgalasi\source\repos\NucleotideCountApp\bin\Debug\NucleotideCountApp.exe
+C:\Users\mgalasi\source\repos\NucleotideCountApp\bin\Debug\NucleotideCountApp.pdb
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.csproj.AssemblyReference.cache
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\MainWindow.g.cs
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\App.g.cs
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp_MarkupCompile.cache
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp_MarkupCompile.lref
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\MainWindow.baml
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.g.resources
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.Properties.Resources.resources
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.csproj.GenerateResource.cache
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.csproj.CoreCompileInputs.cache
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.exe
+C:\Users\mgalasi\source\repos\NucleotideCountApp\obj\Debug\NucleotideCountApp.pdb
